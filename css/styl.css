@@ -1,0 +1,19 @@
+
+body{
+    background-color:#7e7c7d83;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.area{
+    background-color:#2263b2e4;
+    box-shadow: -5px 2px 54px -9px rgb(6, 13, 65);
+}
+
+input, textarea {
+    background-color: transparent !important;
+     font-style: #fff !important;
+}
+
+img{
+    height: 530px;
+}

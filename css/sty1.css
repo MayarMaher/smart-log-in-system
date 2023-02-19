@@ -1,0 +1,18 @@
+
+body{
+    background-image:url(../WhatsApp\ Image\ 2023-02-18\ at\ 1.12.36\ AM.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.area{
+    background-color:#b43b7e;
+    box-shadow: -5px 2px 54px -9px rgb(78, 17, 59);
+}
+
+input, textarea {
+    background-color: transparent !important;
+     font-style: #fff !important;
+}
